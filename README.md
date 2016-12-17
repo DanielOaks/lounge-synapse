@@ -5,7 +5,7 @@ Pretty decent theme for The Lounge. Based on the [lounge-neuron](https://github.
 
 ### Traditional Theme
 
-![Synapse theme for Lounge](https://raw.githubusercontent.com/DanielOaks/lounge-synapse/master/preview-traditional.png)
+![Synapse theme for Lounge](https://raw.githubusercontent.com/DanielOaks/lounge-synapse/master/preview-traditional_.png)
 
 
 ### Expanded Theme
