@@ -10,7 +10,7 @@ Pretty decent theme for The Lounge. Based on the [lounge-neuron](https://github.
 
 ### Expanded Theme
 
-![Synapse theme for Lounge](https://raw.githubusercontent.com/DanielOaks/lounge-synapse/master/preview-expanded.png)
+![Synapse theme for Lounge](https://raw.githubusercontent.com/DanielOaks/lounge-synapse/master/preview-expanded_.png)
 
 
 ## License
