@@ -294,9 +294,10 @@ body {
 
 
 /* *** SYNAPSE CHANGES *** */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:b,i,bi);
 
 body {
-	font-family: "Open Sans", sans;
+	font-family: "Open Sans", sans-serif;
 }
 #chat .user-mode + .user-mode {
 	padding-top: 1rem;
