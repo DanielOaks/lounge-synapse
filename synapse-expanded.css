@@ -339,7 +339,7 @@ body {
 #chat .from, #chat .msg:not(.message) .text {
     padding-top: 1rem;
 }
-#chat .msg.motd + .msg.motd .from, #chat .msg.motd + .msg.motd .text {
+#chat .msg.motd + .msg.motd .from, #chat .msg.motd + .msg.motd .text, #chat .msg-015 + .msg-015 .from, #chat .msg-015 + .msg-015 .text {
     padding-top: 0;
 }
 #chat .msg.motd .text::after {
