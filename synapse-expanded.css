@@ -330,12 +330,19 @@ body {
     float: right;
     margin-left: 1rem;
     margin-right: 1rem;
+    padding: 0;
 }
 #chat .from {
     padding-left: 0.89rem;
 }
 #chat .from, #chat .msg:not(.message) .text {
     padding-top: 1rem;
+}
+#chat .msg.motd + .msg.motd .from, #chat .msg.motd + .msg.motd .text {
+    padding-top: 0;
+}
+#chat .msg.motd .text::after {
+    content: " "; /* fixes motd display bug with empty msg */
 }
 #chat .message .from.followon {
     display: none;
