@@ -353,6 +353,9 @@ body {
     text-align: left;
     padding-left: 1rem;
 }
+#chat .message.equal-from .from {
+    display: none;
+}
 #chat .message .from .user {
     font-weight: bold;
     padding-left: 2rem;
