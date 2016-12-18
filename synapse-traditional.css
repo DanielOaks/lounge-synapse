@@ -311,6 +311,7 @@ body {
 	padding-left: 1rem;
 	padding-right: 1rem;
 	border-right: none;
+    white-space: nowrap;
 }
 #chat .from .user::before {
 	content: "<";
